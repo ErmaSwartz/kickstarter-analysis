@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-***Performing Analysis on Kickstarter Data to Uncover Trends  
+## Performing Analysis on Kickstarter Data to Uncover Trends  
 ### The most successful kickstarter campaigns for theater projects begin between April and July, and have an average fundraising goal of $5000. 
 ![image](https://github.com/ErmaSwartz/kickstarter-analysis/blob/main/Category%20Stats%20.png)
 ![image](https://github.com/ErmaSwartz/kickstarter-analysis/blob/main/Date%20Outcomes.png)
